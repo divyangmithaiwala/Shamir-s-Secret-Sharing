@@ -1,4 +1,4 @@
-# Shamir-s-Secret-Sharing ([wiki](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing))
+# Shamir-s-Secret-Sharing ([wiki](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing))([Video](https://www.youtube.com/watch?v=rIwMMB0U0AY))
 
 Shamir's Secret Sharing, formulated by Adi Shamir, is one of the first secret sharing schemes in cryptography. 
 
